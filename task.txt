@@ -1,0 +1,11 @@
+1. Пройти GIT до 20 января
+2. Дата йога - минимум 1 урок в неделю
+3. Бонни и Слайд Power of powerpoint
+4. Figma dashboards
+5. Python - Yandex - https://practicum.yandex.ru/backend-developer/
+6. Python - Yandex - https://practicum.yandex.ru/profile/data-analysis-basic
+7. Skill Factory - Python
+8. Skill Factory - Power BI review
+9. Skill Factory - Metrics e-com gem dev - review
+10. Skill Factory - Google Sheets review
+11. regexp на habr
